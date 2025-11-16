@@ -1,4 +1,6 @@
 import os
+
+#we are using os model 
 print(os.listdir())
 
-print("Hello, world!")
+print(os.getcwd())
